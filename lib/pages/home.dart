@@ -17,7 +17,7 @@ class _HomeState extends State<Home> {
                     Navigator.pushNamed(context, '/location');
                   },
                   icon: Icon(Icons.edit_location)
-                  )
+              )
             ],
           ) ),
     );
